@@ -13,14 +13,27 @@ I design systems that learn, defend, and deliver — crafted with precision, dri
 
 ---
 
-## 💻 My Tech Stack  
-> Tools I weaponize daily.
+
+## ⚔️ Arsenal & Weaponry
+
+> *"A strategist is only as powerful as their tools."*
 
 <div align="center">
-  
-  <img src="https://skillicons.dev/icons?i=react,nextjs,laravel,python,tailwind,figma,js,ts,firebase,mysql,postgres,linux,docker,bash" />
+
+### Core Technologies
+<img src="https://skillicons.dev/icons?i=react,nextjs,laravel,python,js,ts,tailwind,figma" />
+
+### Infrastructure & Security
+<img src="https://skillicons.dev/icons?i=firebase,mysql,postgres,docker,linux,bash,git,github" />
+
+### Specialized Tools
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 </div>
+
 
 ---
 

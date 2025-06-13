@@ -35,21 +35,7 @@ I design systems that learn, defend, and deliver — crafted with precision, dri
 </div>
 
 
----
 
-## 📊 GitHub by the Numbers
-
-> Each commit, a calculated move. Every repo, a campaign.
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manuutechy&show_icons=true&theme=radical&hide_border=true&custom_title=ManuuTechy's+Stats)
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manuutechy&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=manuutechy&theme=radical&hide_border=true)
-
-</div>
 
 ---
 

@@ -1,69 +1,57 @@
 <div align="center">
 
-<!-- ANIMATED HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:00f5ff,40:7b2ff7,100:ff006e&height=220&section=header&text=manuutechy&fontSize=75&fontColor=ffffff&fontAlignY=40&desc=Backend%20Engineer%20%7C%20Fintech%20%7C%20Systems%20Architect&descSize=17&descAlignY=62&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,60:ff6b00,100:ff6b00&height=200&section=header&text=manuutechy&fontSize=72&fontColor=ffffff&fontAlignY=40&desc=Backend%20Engineer%20%20%7C%20%20Systems%20Architect%20%20%7C%20%20Fintech%20Builder&descSize=16&descAlignY=62&animation=fadeIn&fontAlignY=38" />
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&pause=1200&color=00F5FF&center=true&vCenter=true&width=750&lines=Building+Nuru+%E2%80%94+Kenya's+next+fintech+super+app+%F0%9F%92%B3;Engineering+APIs+that+move+real+money+%F0%9F%9A%80;Laravel+%C2%B7+Flutter+%C2%B7+PostgreSQL+%C2%B7+Redis+%C2%B7+FastAPI;Systems+first.+Always+shipping.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1200&color=FF6B00&center=true&vCenter=true&width=700&lines=Building+Nuru+%E2%80%94+Kenya's+fintech+super+app;Engineering+APIs+that+move+real+money;Laravel+%C2%B7+Flutter+%C2%B7+PostgreSQL+%C2%B7+Redis;...+and+yes%2C+I+use+Arch+by+the+way)](https://git.io/typing-svg)
 
 </div>
 
-<br/>
-
 ---
 
-## ⚡ `$ cat about.me`
+## $ cat about.me
 
 ```yaml
 name       : Manuu
 handle     : @manuutechy
 role       : Backend & Systems Engineer
-location   : 🌍
+os         : Arch Linux  # btw
 building   :
-  - Nuru       → Kenyan fintech super app (M-Pesa · wallets · credit scoring)
-  - Munchify   → Food delivery & student marketplace platform
-stack      : Laravel · Flutter · PostgreSQL · Redis · FastAPI · Next.js · NestJS
-arch       : REST APIs · microservices · event-driven systems · mobile backends
-principle  : "Make it work → Make it right → Make it fast"
-open_to    : Collaborations · interesting backend problems · fintech systems
+  nuru     : Kenyan fintech super app — M-Pesa, wallets, AI credit scoring
+  munchify : Multi-vendor food delivery & student marketplace
+stack      : Laravel · Flutter · PostgreSQL · Redis · FastAPI · NestJS · Next.js
+principle  : Make it work. Make it right. Make it fast.
+status     : Always shipping.
 ```
 
 ---
 
-## 🔭 Currently Shipping
+## What I Ship
 
 <div align="center">
-<table>
+<table border="0" cellspacing="0" cellpadding="12">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="border: 1px solid #ff6b00; border-radius: 8px; padding: 16px;">
 
-### 💳 Nuru — Fintech Super App
-![Status](https://img.shields.io/badge/⚡_Status-In_Development-00f5ff?style=flat-square&labelColor=0d1117)
+**Nuru — Fintech Super App**
 
-A full-stack fintech platform for Kenyan consumers & businesses.
+![Status](https://img.shields.io/badge/In_Development-ff6b00?style=flat-square&labelColor=1a1a1a&color=ff6b00)
 
-- 🏦 M-Pesa integration via **Safaricom Daraja API**
-- 🤖 AI credit scoring microservice (**FastAPI**)
-- 💰 Integer-cent monetary precision (`brick/money`)
-- 📱 Flutter mobile app + Laravel 11 backend
-- 🗄️ PostgreSQL 16 · Redis · Railway → AWS
+Full-stack payments infrastructure for Kenya.
+M-Pesa via Safaricom Daraja API, AI credit scoring microservice, integer-cent monetary precision, Flutter mobile + Laravel 11 backend, PostgreSQL 16 + Redis, Railway migrating to AWS.
 
 </td>
 <td width="50%" valign="top">
 
-### 🍔 Munchify — Marketplace Platform
-![Status](https://img.shields.io/badge/🟢_Status-Live-ff006e?style=flat-square&labelColor=0d1117)
+**Munchify — Marketplace Platform**
 
-Multi-vendor food delivery & student marketplace.
+![Status](https://img.shields.io/badge/Live-ffffff?style=flat-square&labelColor=1a1a1a&color=ffffff)
 
-- 🛵 Laravel-based multi-vendor engine
-- 📲 Custom SMS gateway integrations
-- 🧩 Modular merchant tooling
-- 🏗️ cPanel hosted · production hardened
-- 🌱 Expanding into student-focused verticals
+Multi-vendor food delivery and student marketplace.
+Laravel-based engine, custom SMS gateway integrations, modular merchant tooling, cPanel production-hardened, expanding into broader student verticals.
 
 </td>
 </tr>
@@ -72,74 +60,58 @@ Multi-vendor food delivery & student marketplace.
 
 ---
 
-## 🛠️ Tech Arsenal
+## Tech Arsenal
 
 <div align="center">
 
-**[ Backend & APIs ]**
-
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-**[ Mobile & Frontend ]**
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-**[ Data & Infrastructure ]**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-**[ Tools & OS ]**
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-ff6b00?style=for-the-badge&logo=laravel&logoColor=white&labelColor=1a1a1a)
+![PHP](https://img.shields.io/badge/PHP-ffffff?style=for-the-badge&logo=php&logoColor=1a1a1a&labelColor=1a1a1a)
+![Flutter](https://img.shields.io/badge/Flutter-ff6b00?style=for-the-badge&logo=flutter&logoColor=white&labelColor=1a1a1a)
+![Dart](https://img.shields.io/badge/Dart-ffffff?style=for-the-badge&logo=dart&logoColor=1a1a1a&labelColor=1a1a1a)
+![NestJS](https://img.shields.io/badge/NestJS-ff6b00?style=for-the-badge&logo=nestjs&logoColor=white&labelColor=1a1a1a)
+![Node.js](https://img.shields.io/badge/Node.js-ffffff?style=for-the-badge&logo=nodedotjs&logoColor=1a1a1a&labelColor=1a1a1a)
+![FastAPI](https://img.shields.io/badge/FastAPI-ff6b00?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=1a1a1a)
+![Python](https://img.shields.io/badge/Python-ffffff?style=for-the-badge&logo=python&logoColor=1a1a1a&labelColor=1a1a1a)
+![Next.js](https://img.shields.io/badge/Next.js-ff6b00?style=for-the-badge&logo=next.js&logoColor=white&labelColor=1a1a1a)
+![React](https://img.shields.io/badge/React-ffffff?style=for-the-badge&logo=react&logoColor=1a1a1a&labelColor=1a1a1a)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-ff6b00?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=1a1a1a)
+![Redis](https://img.shields.io/badge/Redis-ffffff?style=for-the-badge&logo=redis&logoColor=1a1a1a&labelColor=1a1a1a)
+![Docker](https://img.shields.io/badge/Docker-ff6b00?style=for-the-badge&logo=docker&logoColor=white&labelColor=1a1a1a)
+![AWS](https://img.shields.io/badge/AWS-ffffff?style=for-the-badge&logo=amazonaws&logoColor=1a1a1a&labelColor=1a1a1a)
+![Git](https://img.shields.io/badge/Git-ff6b00?style=for-the-badge&logo=git&logoColor=white&labelColor=1a1a1a)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-btw-ffffff?style=for-the-badge&logo=arch-linux&logoColor=ff6b00&labelColor=1a1a1a)
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=manuutechy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=7b2ff7&text_color=ffffff&ring_color=ff006e&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=manuutechy&theme=tokyonight&hide_border=true&background=0d1117&ring=ff006e&fire=00f5ff&currStreakLabel=7b2ff7&sideLabels=ffffff&dates=888888" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=manuutechy&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=ff6b00&icon_color=ff6b00&text_color=ffffff&ring_color=ff6b00&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=manuutechy&hide_border=true&background=0d0d0d&ring=ff6b00&fire=ff6b00&currStreakLabel=ff6b00&sideLabels=ffffff&dates=888888&stroke=ff6b00&currStreakNum=ffffff&sideNums=ffffff" />
 
 </div>
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuutechy&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=ffffff&langs_count=8" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=manuutechy&theme=tokyonight&utcOffset=3" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuutechy&layout=donut&hide_border=true&bg_color=0d0d0d&title_color=ff6b00&text_color=ffffff&langs_count=8" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=manuutechy&theme=github_dark&utcOffset=3" />
 
 </div>
 
 ---
 
-## 📊 Contribution Activity
+## Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manuutechy&theme=github-dark&hide_border=true&bg_color=0d1117&color=00f5ff&line=7b2ff7&point=ff006e" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manuutechy&theme=github-dark&hide_border=true&bg_color=0d0d0d&color=ff6b00&line=ff6b00&point=ffffff&area=true&area_color=ff6b00" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+## Commits Feed the Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manuutechy/manuutechy/output/github-contribution-grid-snake-dark.svg">
@@ -147,22 +119,24 @@ Multi-vendor food delivery & student marketplace.
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/manuutechy/manuutechy/output/github-contribution-grid-snake.svg">
 </picture>
 
+> The snake only appears after you set up the GitHub Action. See setup instructions below.
+
 ---
 
-## 🏆 Trophy Case
+## Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=manuutechy&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" />
+<img src="https://github-profile-trophy.vercel.app/?username=manuutechy&theme=onestar&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
 </div>
 
 ---
 
-## 🌐 Connect
+## Connect
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Site-00f5ff?style=for-the-badge&labelColor=0d1117)](https://your-portfolio-url.com)
-[![GitHub](https://img.shields.io/badge/GitHub-manuutechy-7b2ff7?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/manuutechy)
+[![Portfolio](https://img.shields.io/badge/Portfolio-your--site.com-ff6b00?style=for-the-badge&labelColor=1a1a1a&logo=vercel&logoColor=ff6b00)](https://your-portfolio-url.com)
+[![GitHub](https://img.shields.io/badge/GitHub-manuutechy-ffffff?style=for-the-badge&logo=github&logoColor=1a1a1a&labelColor=1a1a1a)](https://github.com/manuutechy)
 
 </div>
 
@@ -170,8 +144,45 @@ Multi-vendor food delivery & student marketplace.
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=manuutechy&color=00f5ff&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=manuutechy&color=ff6b00&style=for-the-badge&label=PROFILE+VIEWS&abbreviated=true)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff006e,50:7b2ff7,100:00f5ff&height=130&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b00,100:1a1a1a&height=120&section=footer" />
 
 </div>
+
+---
+
+<details>
+<summary><strong>Snake Setup (one-time)</strong></summary>
+
+Create `.github/workflows/snake.yml` in this repo:
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: manuutechy
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+Run it once manually from the Actions tab. Done.
+
+</details>

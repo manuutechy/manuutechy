@@ -1,61 +1,33 @@
-# Emmanuel Charles — @manuutechy
+<div align="center">
 
-**Technical Founder • GDG Maseno Chair • Systems Architect**
+# emmanuel charles
 
-> Building scalable systems across AI, infrastructure, and real-world platforms.
+*nairobi. systems. chaos. coffee.*
 
----
-
-## ⚡ Focus
-
-AI systems • automation • cybersecurity • scalable digital products
+[![Website](https://img.shields.io/badge/manuutechy.com-000?style=flat-square&logo=safari&logoColor=white)](https://manuutechy.com)
+[![Email](https://img.shields.io/badge/me@manuutech.com-000?style=flat-square&logo=gmail&logoColor=white)](mailto:me@manuutech.com)
+[![Munchify](https://img.shields.io/badge/🍔_munchify-FF6B00?style=flat-square)](https://munchify.co.ke)
 
 ---
 
-## 🚀 Building
-
-### 🍔 Munchify  
-Campus food system + ghost kitchens  
-→ **2,000+ active users**
-
-### 🏡 Avara Homes  
-Automated Airbnb infrastructure  
-→ **5+ properties managed**
-
-### 🌐 Zylo Net  
-Network + digital services ecosystem  
-→ **5,000+ active users**
-
-### 🔐 Cyzora Holdings  
-Multi-company digital holding system  
-→ **5+ equity-backed ventures**
+i build things that run themselves.  
+technical founder · gdg maseno chair · systems architect  
+somewhere between shipping code and drinking too much coffee ☕
 
 ---
 
-## 🧠 Stack
-
-Flutter • Laravel • PHP • Python • Tailwind  
-MySQL • Firebase • Linux • Bash • Git  
-
----
-
-## 📊 GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manuutechy&show_icons=true&theme=transparent&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=manuutechy&theme=transparent&hide_border=true" />
-</p>
+```
+flutter · laravel · python · linux · bash · whatever gets it done
+```
 
 ---
 
-## 🌐 Links
+<img src="https://github-readme-stats.vercel.app/api?username=manuutechy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=FF6B00&icon_color=FF6B00&text_color=ffffff&ring_color=FF6B00" />
 
-- Website → https://manuutech.com  
-- Email → me@manuutech.com  
-- Munchify → https://munchify.co.ke  
+<img src="https://github-readme-streak-stats.herokuapp.com?user=manuutechy&theme=tokyonight&hide_border=true&background=00000000&ring=FF6B00&fire=FF6B00&currStreakLabel=FF6B00" />
 
 ---
 
-## 🧭 Direction
+*systems that scale. products that compound. infrastructure that runs itself.*
 
-Systems that scale. Products that compound. Infrastructure that runs itself.
+</div>

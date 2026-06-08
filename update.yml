@@ -1,0 +1,36 @@
+name: Update Profile Card
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # midnight UTC daily
+  workflow_dispatch:       # manual trigger from Actions tab
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install requests python-dateutil lxml
+
+      - name: Run generator
+        env:
+          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+          USER_NAME: manuutechy
+        run: python generate.py
+
+      - name: Commit updated SVG
+        run: |
+          git config --global user.name  "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add profile.svg cache/
+          git diff --cached --quiet || git commit -m "chore: update profile card [skip ci]"
+          git push

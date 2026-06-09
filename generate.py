@@ -374,8 +374,6 @@ def svg_overwrite(filename, commit_data, star_data, repo_data, follower_data, lo
 # ── Main ───────────────────────────────────────────────────────────────────────
 
 if __name__ == "__main__":
-    global OWNER_ID
-
     print("Fetching stats for @manuutechy …\n")
     print("Calculation times:")
 

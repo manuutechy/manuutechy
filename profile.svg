@@ -40,8 +40,8 @@
   <text x="676" y="136" font-size="11" fill="#555555" letter-spacing="1">LINES WRITTEN</text>
 
   <!-- Stat values (row 1) -->
-  <text id="commit_data" x="36" y="166" font-size="26" font-weight="700" fill="#ffffff">125</text>
-  <text id="repo_data" x="196" y="166" font-size="26" font-weight="700" fill="#ffffff">31</text>
+  <text id="commit_data" x="36" y="166" font-size="26" font-weight="700" fill="#ffffff">126</text>
+  <text id="repo_data" x="196" y="166" font-size="26" font-weight="700" fill="#ffffff">32</text>
   <text id="star_data" x="356" y="166" font-size="26" font-weight="700" fill="#ffffff">1</text>
   <text id="follower_data" x="516" y="166" font-size="26" font-weight="700" fill="#ffffff">3</text>
   <text id="loc_data" x="676" y="166" font-size="26" font-weight="700" fill="#ff6b00">145,756</text>
@@ -61,5 +61,5 @@
   <text x="36" y="252" font-size="11" fill="#666666">Laravel · Flutter · PostgreSQL · Redis · FastAPI · NestJS · Next.js · Docker · AWS</text>
 
   <!-- Last updated -->
-  <text id="updated_at" x="824" y="268" font-size="10" fill="#333333" text-anchor="end">updated 11 Jun 2026</text>
+  <text id="updated_at" x="824" y="268" font-size="10" fill="#333333" text-anchor="end">updated 12 Jun 2026</text>
 </svg>

@@ -61,5 +61,5 @@
   <text x="36" y="252" font-size="11" fill="#666666">Laravel · Flutter · PostgreSQL · Redis · FastAPI · NestJS · Next.js · Docker · AWS</text>
 
   <!-- Last updated -->
-  <text id="updated_at" x="824" y="268" font-size="10" fill="#333333" text-anchor="end">updated 18 Jul 2026</text>
+  <text id="updated_at" x="824" y="268" font-size="10" fill="#333333" text-anchor="end">updated 19 Jul 2026</text>
 </svg>
